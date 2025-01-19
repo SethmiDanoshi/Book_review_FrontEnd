@@ -1,6 +1,6 @@
 # Book Review Frontend
 
-This is a React single-page application (SPA) for managing book reviews. It communicates with a Spring Boot backend.
+This is a React single-page application (SPA) for managing book reviews. It communicates with a Node.js backend.
 
 ## Features
 
